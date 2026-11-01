@@ -4,6 +4,12 @@ End-to-end object detection project: dataset preparation, training, evaluation,
 real-time inference (image / video / webcam) and model export, built on
 PyTorch, OpenCV and the official Ultralytics YOLOv5 repository.
 
+## Demo
+
+   ![YOLOv5 detection demo](assets/bus_detection.jpg)
+
+   Pretrained YOLOv5s detecting a bus and people (confidence score shown next to each label).
+
 ## Project structure
 
 ```
