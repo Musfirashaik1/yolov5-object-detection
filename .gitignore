@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+yolov5/
+dataset/
+runs/
+*.pt
+*.onnx
+raw_data/images/*
+raw_data/labels/*
+!raw_data/images/.gitkeep
+!raw_data/labels/.gitkeep
